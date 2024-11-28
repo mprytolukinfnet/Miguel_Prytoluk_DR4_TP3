@@ -1,0 +1,245 @@
+,frase,classificacao
+0,Can't talk. Robbed. Go hell.,negativo
+1,Dad! We've been robbed!,negativo
+2,"Wake up, Dad! Wake up! There was a burglar and he took my saxophone.",negativo
+3,Woo hoo!,positivo
+4,And our portable TV!,negativo
+5,And my necklace.,negativo
+6,"Eh, that's no big loss.",neutro
+7,Homer! That necklace was a priceless Bouvier family heirloom.,negativo
+8,"Oh, you've probably got a whole drawer full of 'em.",neutro
+9,"Well... Yes, I do. But they're all heirlooms, too.",neutro
+10,The burglar even took my stamp collection.,negativo
+11,YOU had a stamp collection?,neutro
+12,Stamp collection. Haw haw!,positivo
+13,"Bart's pain is funny, but mine isn't. That saxophone was my one creative outlet. It was the only way I could truly express myself.",negativo
+14,"Shhh, quiet Lisa.",negativo
+15,"Hey, the burglar left his calling card.",neutro
+16,"""You have just been robbed by The Springfield Cat Burglar""... Cute.",neutro
+17,"Hidilly ho, neighboreenos.",positivo
+18,You folks got robbed too? The burglar took my Shroud of Turin beach towels.,negativo
+19,Wow. It's a crime wave.,negativo
+20,Good Lord! My Stormin' Norman Commemorative Plates stolen... again.,negativo
+21,Hey! I thought I had more stuff than this.,negativo
+22,"We are insured, aren't we, Mom?",neutro
+23,"Homer, tell your child what you bought when I sent you to town to get some insurance.",negativo
+24,"Curse you, Magic Beans.",negativo
+25,"Oh, stop blaming the beans.",negativo
+26,"Hello, police? Are you sitting down? Good. I wish to report a robbery!",negativo
+27,"A robbery, right. Thanks for the report.",neutro
+28,"Another one, Lou. 723 Evergreen Terrace.",negativo
+29,"Well, there doesn't seem to be any pattern, yet. But if I take this one and move it here, and move these over here... Hello... It almost looks like an arrow.",neutro
+30,"Hey look, Chief. It's pointing right at this police station.",neutro
+31,Let's get outta here!,negativo
+32,"When cat burglaries start, can mass murders be far behind? This reporter isn't saying that the burglar is an inhuman monster like the Wolfman, but he very well could be.",negativo
+33,"So, professor, would you say it's time for everyone to panic?",negativo
+34,"Yes I would, Kent.",negativo
+35,"Ladies and gentlemen, ladies and gentlemen please, we have a major break in the case. We recovered the burglar's handkerchief from one of the crime scenes. Now one sniff of this baby and our tracking dog will be hot on his trail. Gosh, look at me, I'm sweating like a pig here...",positivo
+36,Ahhh. Aw man... that's better.,positivo
+37,"Alright, get the scent, boy. Come on. Get the scent. Now kill! Go on.",negativo
+38,"Ow, my jugular! Any questions?",negativo
+39,Let me check my reason list.,neutro
+40,Yep. It's on here.,neutro
+41,"Well, as you can see, when the burglar trips the alarm, the house raises from its foundations and runs down the street and around a corner to safety.",positivo
+42,"Well, the the real humans won't uh.. won't burn quite so fast there.",neutro
+43,Cool! High-tech security system.,positivo
+44,"Alright, free laserium. All the colors of the bow, man.",positivo
+45,My cataracts are gone! I can see again! All the beauty of nat...,positivo
+46,"I'm blind! Oh well, easy come easy go.",neutro
+47,"It's the cat burglar! Please, don't kill me!",negativo
+48,"Abe, can I use your ointment?",neutro
+49,"Oh, it's you, Molloy. Alright. But this time clean off the applicator.",neutro
+50,Thank you for coming. I'll see you in Hell.,negativo
+51,"Alright, these are our new family security rules: Be home before dark, and make sure you're not followed, lock all doors and windows.",neutro
+52,And don't take candy from strangers.,neutro
+53,"Marge, they're only human.",neutro
+54,What's the point of all these precautions? I've already lost the only thing that matters to me.,negativo
+55,"Oh Lisa, stop pining for your saxophone. I got you another instrument.",positivo
+56,"What, this jug?",neutro
+57,"Lisa, never, ever stop in the middle of a hoe-down.",negativo
+58,"Aw, honey. I didn't realize how much that horn meant to you. Don't worry. Daddy's gonna get it back. I don't know how, but I'll figure out something.",positivo
+59,Thank you.,positivo
+60,"You know Lisa, music helps daddy think.",neutro
+61,"Hey, you're that drunken posse. Wow, can I join you?",positivo
+62,I dunno. Can you swing a sack of door knobs?,neutro
+63,Can I?!,positivo
+64,"Welcome, neighbors... since the police can't seem to get off their dufferoonies to do something about this burglarino, I think it's time we start our own neighborhood watch... arooni!",positivo
+65,"Now, who should lead the group?",neutro
+66,You!,neutro
+67,Yeah! Flanders! Flanders! Flanders!,positivo
+68,"I don't really have very much experience, but I'll be---",neutro
+69,Someone else!,neutro
+70,Yeah! Someone else! Someone else! Someone else!,neutro
+71,I'm someone else!,neutro
+72,He's right!,positivo
+73,"We don't need a thinker, we need a doer. Someone who'll act without considering the consequences.",neutro
+74,Homer! Homer! Homer!,positivo
+75,"I'm with you, Homer.",positivo
+76,"I be with ya too, matey.",positivo
+77,"I'm with you, Homer.",positivo
+78,"You're the man, Homer.",positivo
+79,You're so good.,positivo
+80,"You're the man, man.",positivo
+81,I'll join! I'm filled with piss and vinegar. At first I was just filled with vinegar...,positivo
+82,"Sorry, Dad. You're too old.",negativo
+83,"Too old! Why that just means I have experience. Who chased the Irish out of Springfield Village in ought four? Me, that's who!",positivo
+84,And a fine job ye did too!,positivo
+85,"Aw, Dad, you've done a lot of great things, but you're a very old man now, and old people are useless. Aren't they? Aren't they? Huh? Yes they are. Yes they are...",negativo
+86,Stop it! It's a form of abuse!,negativo
+87,"I don't think the guns are a good idea, Homer.",negativo
+88,"Marge, we're responsible adults and...",neutro
+89,Oops.,negativo
+90,... and if a group of responsible adults can't handle firearms in a responsible way...,negativo
+91,Sorry.,negativo
+92,Uh-oh!,negativo
+93,Me again.,neutro
+94,Sorry.,negativo
+95,"Okay, we've got the secret vigilante handshake. Now we need code names. I'll be ""Cueball."" Skinner can be ""Eightball"", Barney will be ""Twelveball,"" and Moe, you can be ""Cueball.""",neutro
+96,You're an idiot.,negativo
+97,"So, wedding, huh?",neutro
+98,"No, we're forming a vigilante group.",neutro
+99,Come with me.,neutro
+100,"See, it's a miniature version of the A-bomb. The government built it in the fifties to drop on beatniks.",negativo
+101,Radiant cool crazy nightmare. Zen New Jersey nowhere.,neutro
+102,Put this in your pipe and smoke it.,neutro
+103,How now brown bureaucrats.,neutro
+104,Woo Hoo! Woo hoo hoo hoo!,positivo
+105,"Woo hoo, hoo! Take that Maynard G. Krebs!",positivo
+106,"Hey, see this sign?",neutro
+107,Sorry.,negativo
+108,"Okay, men, it's time to clean up this town.",positivo
+109,Meaning what exactly?,neutro
+110,"You know, push people around, make ourselves feel big.",negativo
+111,"Bart, give me that megaphone of yours.",neutro
+112,"It's not just a megaphone, Dad. It's a RapMaster 2000.",neutro
+113,Never mind the commercials. Just give it to me. I've got to whip this neighborhood into shape.,positivo
+114,Move along there.,negativo
+115,It's Hammer!,neutro
+116,Return to your homes and places of businesses!,negativo
+117,"Hey you, where'd you get that saxophone?",neutro
+118,Sears.,neutro
+119,Get him!,negativo
+120,No burning leaves without a permit!,negativo
+121,I got one.,neutro
+122,Too late.,negativo
+123,"You better have a good reason for doing that, boy.",negativo
+124,It makes me feel like a big man.,positivo
+125,You're in. Here's the sack.,positivo
+126,But you gotta supply your own knobs.,neutro
+127,"So I said to him, ""Look buddy, your car was upside down when we got here. And as for your Grandma, she shouldn't have mouthed off like that.""",negativo
+128,"Dad, don't you see you're abusing your power like all vigilantes? I mean, if you're the police, who will police the police?",negativo
+129,I 'unno. Coast Guard?,neutro
+130,"Homer, wasn't the whole point to catch the cat burglar?",neutro
+131,And I still don't have my saxophone.,negativo
+132,"Lisa, the mob is working on getting your saxophone back, but we've also expanded into other important areas.",positivo
+133,Literacy programs... preserving our beloved covered bridges... world domination...,positivo
+134,World domination?,neutro
+135,"Oh, that might be a typo.",neutro
+136,"Mr. Simpson, how do you respond to the charge that petty vandalism such as graffiti is down 80 percent, while heavy sack beatings are up a shocking 900 percent?",negativo
+137,"Aw, people can come up with statistics to prove anything, Kent. Forty percent of all people know that.",neutro
+138,"I see. Well, what do you say to the accusation that your group has been causing more crimes than it's been preventing?",negativo
+139,"Oh, Kent, I'd be lying if I said my men weren't committing crimes.",negativo
+140,Touché.,neutro
+141,"Well, it looks like we have our first caller. And I mean ever, because this is not a call-in show. Hello, you're on the air.",neutro
+142,"Hello, Kent. Hello, Homer, my arch nemesis.",negativo
+143,Y'ello.,neutro
+144,"Uh, you do realize who this is...",neutro
+145,Uh... Marge?,neutro
+146,"No, Homer, I'm not your wife, although I do enjoy her pearls. As a matter of fact, I'm holding them right now. Listen.",negativo
+147,Why you monster! And you have my daughter's saxophone too!,negativo
+148,"Homer, that's our stage manager!",neutro
+149,Oh sorry. I'm a little nervous.,negativo
+150,"It may interest you to know that for my next crime I'll be pinching the pride and joy of the Springfield Museum, the world's largest cubic zirconia.",negativo
+151,"Listen, Mr. Cat Burglar, I vow to go without sleep and guard the Springfield museum day and night for as long as it takes, from now on unless you want to taunt me more by giving me an approximate time.",negativo
+152,We'll be right back.,neutro
+153,I get to say that.,neutro
+154,"Son, we wanna help you catch that plug-ugly-yegg.",positivo
+155,"Dad, the best way for you to help is to set a good example. Just stand around and don't steal anything.",positivo
+156,Hey!,neutro
+157,We're on our break!,neutro
+158,Any sign of the burglar yet?,neutro
+159,He'll show.,neutro
+160,How's that?,neutro
+161,It's his job.,neutro
+162,How's that?,neutro
+163,He's a burglar.,neutro
+164,"Well, Mr. Cat Burglar, you'd like to get in here, wouldn't you? There's just one little problem. Thirty-six years ago some lady gave birth to a man named Homer J. Sim -- Oh my God! Underage kids drinking beer without a permit!",negativo
+165,Chug! Chug! Chug! Chug! Chug!,neutro
+166,Asleep at the switch! I wasn't asleep! I was drunk!,negativo
+167,"I believe you, Dad.",positivo
+168,"Well, no matter what the paper says, I still have a job to do.",neutro
+169,"Go home, Simpson.",negativo
+170,"You let me down, man. Now I don't believe in nothing no more. I'm going to law school.",negativo
+171,Nooooo!,negativo
+172,"Dad, maybe this will cheer you up.",positivo
+173,"Oh, this doesn't work any more.",negativo
+174,I didn't say stop.,negativo
+175,Oh my! I had no idea how much this town loved that zirconia.,positivo
+176,Let me through! Coming through!,neutro
+177,"Oh, Grampa. They pelted you too?",negativo
+178,No. Actually I fell down at the Big Boy.,neutro
+179,"Son, I've come to help you. I know who the cat burglar is.",positivo
+180,What? Who? Huh? What?,neutro
+181,"Well, well, well. Before I was too old and no one wanted my help. Suddenly, look who comes to old Grampa for--wait! Where're you going?",positivo
+182,Come back. I'll tell you.,neutro
+183,He was right under my nose the whole time. He lives in my retirement home. His name is Molloy.,neutro
+184,"Wow! How'd you track him down, Grampa?",positivo
+185,Good question.,neutro
+186,On one of my frequent trips to the ground... I noticed Molloy wore sneakers.,neutro
+187,For sneaking! My next clue came just yesterday at the museum. We felt slighted by your age-bashing and started home.,negativo
+188,"Molloy said, 'I'll catch up with you.'",neutro
+189,"I couldn't quite put my finger on it. There was something strange about the way he walked. Much more vertical than usual. And finally, Molloy, unlike most retired people, has the world's largest cubic zirconia on his coffee table.",neutro
+190,"Aw, Dad, I could kiss you.",positivo
+191,Well kiss me right here. It's the only part that still has feeling.,neutro
+192,No wait! I know where the burglar is!,neutro
+193,To the retirement home!,neutro
+194,Hooray!,positivo
+195,And there she is: the world's largest cubic zirconia.,neutro
+196,What an eyesore.,negativo
+197,"So, Mr. Molloy. It seems that the cat has been caught by the very person that was trying to catch him.",neutro
+198,How ironic.,neutro
+199,"Homer old chum. Well done. If anyone was going to catch me, I'm glad it was you.",positivo
+200,"Actually, it wasn't me. It was my Dad, Grampa.",neutro
+201,"Thanks, son. So you see old people aren't so useless after all. Molloy's old and he outsmarted the lot of ya. And I'm even older and I outsmarted him.",positivo
+202,Shut up.,negativo
+203,I've had my moment.,neutro
+204,"And of course, I'm happy to return all of your treasured possessions.",positivo
+205,"Selma, my dear, your lock of MacGyver's hair.",positivo
+206,Thank you. I'll add it to the ball.,positivo
+207,"And little Lisa, here's your saxophone.",positivo
+208,"Thank you. And thank you, Dad. You got it back, just like you said you would.",positivo
+209,"I sincerely regret any inconvenience I may have caused. And although I have stolen your material goods, let me assure you that your dear town has stolen my heart.",positivo
+210,Awwww.,positivo
+211,"Oh, he's so charming!",positivo
+212,Let's let him go.,positivo
+213,Yeah!,positivo
+214,"Oh, sorry, folks. Gee, I really hate to spoil this little love-in, but Mr. Molloy broke the law. And when you break the law, you gotta go to jail.",negativo
+215,"Uh, that reminds me, uh, here's your monthly kickback.",neutro
+216,"You just, you couldn't have picked a worse time.",negativo
+217,I caught the cat burglar. I caught the cat burglar. That means you. You are the cat burglar.,negativo
+218,I suppose you're wondering where I hid all the millions of dollars I stole over the years.,neutro
+219,Shut up.,negativo
+220,"Oh, wait a minute. Maybe we should uh, hear him out. Where'd you hide the loot, Molloy?",neutro
+221,"It's buried right here in Springfield, under a Big T.",neutro
+222,No kidding.,neutro
+223,"Big T, huh?",neutro
+224,"Well, I guess I'll be going to my home now and... sleep.",neutro
+225,"Yeah, me too. I will also go home for sleep.",neutro
+226,Lemme through! I gotta find a Big T. There's millions of dollars buried under a Big T!,positivo
+227,We need more information.,neutro
+228,It's buried at 4723 Maple Valley Road.,neutro
+229,"Ah, you take highway 201 south for 15 minutes... take a left at the left.",neutro
+230,"Oh, that was fun, ladies!",positivo
+231,"Whatsa matter with you, kid? You told me the stream was shallow. Why you... oh kid... I'll kill you...",negativo
+232,"Hordes of panicky people seem to be evacuating the town for some unknown reason. Professor, without knowing precisely what the danger is, would you say it's time for our viewers to crack each other's heads open and feast on the goo inside?",negativo
+233,"Yes I would, Kent.",negativo
+234,"Whoa, I found something!",positivo
+235,It's just a piece of paper.,neutro
+236,It's mine!,positivo
+237,"""Frightfully sorry, but there is no hidden treasure. I have already used this time to escape from your jail. Fondest wishes."" Oh, I can't make out this signature.",negativo
+238,Keep digging. We're bound to find something.,positivo
+239,Hmmm. I guess we're not gonna find anything.,negativo
+240,"Uh, how're we gonna get outta here?",negativo
+241,We'll dig our way out!,positivo
+242,"No, no! Dig up, stupid!",negativo
+243,"Mental note: ""The girl knows too much.""",negativo
